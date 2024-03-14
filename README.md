@@ -12,6 +12,3 @@
 <h3 align="left">Hi Welcome</h3>
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-profile-eight.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/6cf71eafc2534d26a3a6b3a4820191f1)
-
