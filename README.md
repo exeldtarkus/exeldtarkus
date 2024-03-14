@@ -1,5 +1,3 @@
-<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
-
 <br clear="both">
 
 <div align="center">
@@ -13,6 +11,7 @@
 
 <h3 align="left">Hi Welcome</h3>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5rJlx49djA2krWtoaKRfvv?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Spotify Playing 🎧
 
-###
+[<img src="https://now-playing-profile-eight.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/USER_ID)
+
