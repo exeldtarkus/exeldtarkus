@@ -5,7 +5,7 @@
 
 <br>
 
-<h3>Things I code with</h3>
+<h4 style="font-family: 'Arial', sans-serif; color: #333;">Technologies I use</h4>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
