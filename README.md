@@ -25,4 +25,5 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" />
 </p>
