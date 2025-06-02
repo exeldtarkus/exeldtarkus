@@ -26,4 +26,7 @@
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" />
+  <img alt="LLM" src="https://img.shields.io/badge/-LLM-800080?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-4B8BBE?style=flat-square&logo=cloudsmith&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-00BFA5?style=flat-square&logo=chainlink&logoColor=white" />
 </p>
