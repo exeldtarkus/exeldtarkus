@@ -5,6 +5,11 @@
 
 <br>
 
+<h4>🎧 Current Spotify Playlist</h4>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
 <h4 style="font-family: 'Arial', sans-serif; color: #333;">Technologies I use</h4>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
