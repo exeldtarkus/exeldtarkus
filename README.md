@@ -29,4 +29,6 @@
   <img alt="LLM" src="https://img.shields.io/badge/-LLM-800080?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-4B8BBE?style=flat-square&logo=cloudsmith&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-00BFA5?style=flat-square&logo=chainlink&logoColor=white" />
+  <img alt="RNN" src="https://img.shields.io/badge/RNN-FF6F61?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Audio Classification" src="https://img.shields.io/badge/Audio_Classification-00A8E8?style=flat-square&logo=soundcloud&logoColor=white" />
 </p>
