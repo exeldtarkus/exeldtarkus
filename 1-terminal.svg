@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190">
+  <style>
+    text { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 18px; }
+    .all  { animation: fade 10s infinite; }
+    .clip1 { animation: type1 10s infinite; }
+    .clip2 { animation: type2 10s infinite; }
+    .c1 { animation: move1 10s infinite, show1 10s infinite; }
+    .c2 { animation: move2 10s infinite, show2 10s infinite; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes type1 { 0% { width: 0; animation-timing-function: steps(19, end); } 15%, 100% { width: 206px; } }
+    @keyframes type2 { 0%, 20% { width: 0; animation-timing-function: steps(58, end); } 60%, 100% { width: 626px; } }
+    @keyframes move1 { 0% { transform: translateX(0); animation-timing-function: steps(19, end); } 15%, 100% { transform: translateX(206px); } }
+    @keyframes move2 { 0%, 20% { transform: translateX(0); animation-timing-function: steps(58, end); } 60%, 100% { transform: translateX(626px); } }
+    @keyframes show1 { 0%, 19.9% { opacity: 1; } 20%, 100% { opacity: 0; } }
+    @keyframes show2 { 0%, 19.9% { opacity: 0; } 20%, 100% { opacity: 1; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes fade { 0%, 92% { opacity: 1; } 97%, 100% { opacity: 0; } }
+  </style>
+  <defs>
+    <clipPath id="l1"><rect class="clip1" x="64" y="70" width="0" height="30"/></clipPath>
+    <clipPath id="l2"><rect class="clip2" x="64" y="112" width="0" height="30"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="188" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="26" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="24" r="6" fill="#27c93f"/>
+  <text x="450" y="29" text-anchor="middle" fill="#8b949e" style="font-size:13px">~/welcome</text>
+  <line x1="1" y1="44" x2="899" y2="44" stroke="#30363d"/>
+
+  <g class="all">
+    <text x="40" y="92" fill="#3fb950">$</text>
+    <text x="64" y="92" fill="#F7F080" textLength="205" lengthAdjust="spacingAndGlyphs" clip-path="url(#l1)">Hello hello . . . .</text>
+    <text x="40" y="134" fill="#3fb950">$</text>
+    <text x="64" y="134" fill="#c9d1d9" textLength="626" lengthAdjust="spacingAndGlyphs" clip-path="url(#l2)">Welcome! Turning coffee and ideas into code since day one.</text>
+
+    <g class="c1"><rect class="blink" x="66" y="76" width="10" height="20" fill="#F7F080"/></g>
+    <g class="c2"><rect class="blink" x="66" y="118" width="10" height="20" fill="#c9d1d9"/></g>
+  </g>
+</svg>
